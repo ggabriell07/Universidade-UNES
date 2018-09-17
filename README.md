@@ -1,4 +1,3 @@
 # Universidade-UNES
 
-Projeto teste - nivel de conhecimento: iniciante
-utilizando apenas html 5
+Projeto teste utilizando apenas linguagem HTML 5 - nivel de conhecimento: iniciante
